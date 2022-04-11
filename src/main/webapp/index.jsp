@@ -12,7 +12,7 @@
 		<title> </title>
 </head>
 <body>
-<!-- 	JY -->
+<!-- 	JY JY JY  -->
 	<!-- WK : 헤더 네비게이션 구현 먼저 해주세요.  -->
 	<jsp:include page="header.jsp"/>
 
