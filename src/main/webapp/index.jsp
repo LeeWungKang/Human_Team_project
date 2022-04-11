@@ -16,7 +16,7 @@
 	<!-- WK : 헤더 네비게이션 구현 먼저 해주세요.  -->
 	<jsp:include page="header.jsp"/>
 
-
+	<h1>zz</h1>
 		<jsp:include page='<%=filePath +".jsp" %>'/>
 
 
