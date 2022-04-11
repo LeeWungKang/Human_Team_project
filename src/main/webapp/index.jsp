@@ -12,7 +12,7 @@
 		<title> </title>
 </head>
 <body>
-<!-- 	마지막 테스트   -->
+<!--  JY   -->
 	<!-- WK : 헤더 네비게이션 구현 먼저 해주세요.  -->
 	<jsp:include page=""/>
 
